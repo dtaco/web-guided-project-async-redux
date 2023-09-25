@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Kadir", "last": "Özkök" },
+      "location": {
+        "street": { "number": 4425, "name": "Bağdat Cd" },
+        "city": "Çorum",
+        "state": "Konya",
+        "country": "Turkey",
+        "postcode": 81825,
+        "coordinates": { "latitude": "71.1493", "longitude": "-37.9449" },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
+      },
+      "email": "kadir.ozkok@example.com",
+      "login": {
+        "uuid": "7ff7d38c-87b3-4526-9706-200674616200",
+        "username": "beautifulgorilla253",
+        "password": "hope",
+        "salt": "FETmvjAv",
+        "md5": "1a23d43a38e7fddce6acc88e33201ee3",
+        "sha1": "2b2c6738bf8fc7e37385e85d1f6f5f27797c7fd2",
+        "sha256": "d2dffd7e6823b9ac0b00335e5588b5e000ec78d3e08e1b3a61bec74df8146018"
+      },
+      "dob": { "date": "1945-07-29T16:27:32.745Z", "age": 78 },
+      "registered": { "date": "2003-02-11T11:11:55.174Z", "age": 20 },
+      "phone": "(434)-041-0022",
+      "cell": "(395)-939-7397",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/41.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+      },
+      "nat": "TR"
+    }
+  ],
+  "info": {
+    "seed": "7d31b3b0554b0ba2",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
